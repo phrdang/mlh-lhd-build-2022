@@ -8,3 +8,4 @@ See code on [Glitch](https://glitch.com):
 
 1. [Part 1: Intro to Python](https://glitch.com/edit/#!/melon-pickled-coffee)
 2. [Part 2: Webscraping Intro](https://glitch.com/edit/#!/nettle-peat-wednesday)
+3. [Part 3: Markov Chains](https://glitch.com/edit/#!/brassy-fuchsia-walker)
